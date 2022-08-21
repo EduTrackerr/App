@@ -1,6 +1,6 @@
 # App
 
-Introducing EduTracker, fast tracking your education to success! 
+Introducing EduTracker, the ultimate tool to help fast track your success through school! 
 
 Created using the Angular CLI and libraries. 
 
