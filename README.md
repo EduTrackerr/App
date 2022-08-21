@@ -1,6 +1,6 @@
 # App
 
-The EduTracker app, removing stress from tests and improving the efficiency of studying for in person learning! 
+Introducing EduTracker, fast tracking your education to success! 
 
 Created using the Angular CLI and libraries. 
 
